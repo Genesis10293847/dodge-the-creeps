@@ -19,7 +19,7 @@ mob_scene = ExtResource("2_1bvp3")
 
 [node name="ColorRect" type="ColorRect" parent="." unique_id=518401234]
 custom_minimum_size = Vector2(480, 720)
-color = Color(0.14509805, 0.5882353, 0.74509805, 1)
+color = Color(0.22352941, 0.42745098, 0.4392157, 1)
 
 [node name="Player" parent="." unique_id=555454188 instance=ExtResource("3_lquwl")]
 
